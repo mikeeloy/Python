@@ -1,0 +1,6 @@
+hours = float(input('how many hours did you work last month? '))
+rate = float(input('what is your hourly rate? '))
+
+print('Last month, you earned', hours * rate ,'dollars')
+5 +7
+print (-1)

@@ -1,0 +1,5 @@
+password = input('do you know the secrest passwod? ')
+if password != '--secret':
+    print('not correct')
+else:
+    print('correct password')
